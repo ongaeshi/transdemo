@@ -11,6 +11,8 @@ body {
   margin: auto;
   line-height: 1.5;
   font-family: "ヒラギノ明朝 Pro W6", "ＤＦＰ極太明朝体", "ＤＦ極太明朝体", "HG平成明朝体W9", "平成明朝", "ＭＳ Ｐゴシック", serif;
+  background-color: #ECF5FE;
+  color: black;
 }
 
 body > header {
@@ -85,7 +87,7 @@ header > nav {
     margin: { top: 0.6em; bottom: 0.5em; };
     font-size: 32px;
     padding-left: 0.4em;
-    background: { color: #ffffff; };
+/*     background: { color: #ffffff; }; */
     border: {
       bottom-width: 1px;
       bottom-style: solid;
